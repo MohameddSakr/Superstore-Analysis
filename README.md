@@ -1,5 +1,18 @@
 # 📊 Superstore Sales Analysis
 
+<!-- الصف الأول -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5ff56e95-31b5-4375-93fa-bb2cb5413e9c" width="450" height="280">
+  <img src="https://github.com/user-attachments/assets/1be0ff2f-0193-4d75-af0d-20813c7f450a" width="450" height="280">
+</p>
+
+<!-- الصف الثاني -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fb7a09aa-7ad5-4a2b-aa67-2472be7f893f" width="450" height="280">
+  <img src="https://github.com/user-attachments/assets/d86f7117-7cd5-425d-b446-7349067fa964" width="450" height="280">
+</p>
+
+
 ### **Project Overview**
 This project analyzes the **Superstore Dataset**, which contains information about orders, customers, products, and sales across different regions.  
 The goal of the analysis is to explore sales patterns, identify the most profitable areas, and provide insights for business decision-making.  
